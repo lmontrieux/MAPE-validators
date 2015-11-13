@@ -1,0 +1,26 @@
+{
+    "frontend-failures": [
+        {
+            "frontend": [
+                "id": "front:0001",
+                "repository": "webapp.git",
+                "deployed": "f09d13d",
+                "status": "404",
+                "vm": {
+                    "id": "vm:0001",
+                    "status": "OK"
+                }
+            ],
+            "frontend": [
+                "id": "front:0002",
+                "repository": "webapp.git",
+                "deployed": "f09d13d",
+                "status": "503",
+                "vm": {
+                    "id": "vm:0002",
+                    "status": "OK"
+                }
+            ]
+        }
+    ]
+}
