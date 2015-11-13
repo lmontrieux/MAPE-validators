@@ -1,7 +1,8 @@
 # MAPE-validators
 
 MAPE-validators is a collection of validators for JSON representations
-of models used in self-adaptive systems.
+of models used in self-adaptive systems. Each model comes with a
+`description.md` file that provides documentation on the model.
 
 The validators use the
 [voluptuous](https://github.com/alecthomas/voluptuous) library.
